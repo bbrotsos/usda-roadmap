@@ -1,0 +1,62 @@
+# markdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["superscript","tables","with_toc_data"]
+highlighter: pygments
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: "Department of Agriculture Roadmap"
+description: "This is the Department of Agriculture 2015 Roadmap "
+#baseurl: https://bbrotsos.github.io/usda-roadmap
+# Uncomment the following line for localhost development at http://127.0.0.1:4000/usda-roadmap/
+baseurl: /usda-roadmap
+
+# GitHub information
+org_name: bbrotsos
+repo_name: usda-roadmap
+branch: gh-pages
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: /usda-roadmap/
+- text: Strategy
+  url: /usda-roadmap/strategy/
+- text: Performance
+  url: /usda-roadmap/performance/
+- text: Data
+  url: /usda-roadmap/data/
+- text: Solutions
+  url: /usda-roadmap/solutions/
+- text: Current State
+  url: /usda-roadmap/current-state/
+- text: Future State
+  url: /usda-roadmap/future-state/
+- text: Transition Plan
+  url: /usda-roadmap/transition-plan/
+- text: Appendix I
+  url: /usda-roadmap/appendix1/
+- text: Appendix II
+  url: /usda-roadmap/appendix2/
+- text: Appendix III
+  url: /usda-roadmap/appendix3/
+
+# sass
+sass:
+  sass_dir: _sass
