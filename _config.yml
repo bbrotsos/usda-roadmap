@@ -34,20 +34,22 @@ branch: gh-pages
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Agriculture Overview
   url: /usda-roadmap/
+- text: Customers
+  url: /usda-roadmap/customers/
 - text: Strategy
   url: /usda-roadmap/strategy/
 - text: Performance
   url: /usda-roadmap/performance/
+- text: Governance
+  url: /usda-roadmap/governance
 - text: Data
   url: /usda-roadmap/data/
+- text: Technology Advancements
+  url: /usda-roadmap/technology-advancements/
 - text: Solutions
   url: /usda-roadmap/solutions/
-- text: Current State
-  url: /usda-roadmap/current-state/
-- text: Future State
-  url: /usda-roadmap/future-state/
 - text: Transition Plan
   url: /usda-roadmap/transition-plan/
 - text: Appendix I

@@ -12,7 +12,11 @@ rural development, nutrition, and related issues based on sound public policy,
 the best available science, and efficient management.  
 
 USDA’s mission is incredibly diverse and reaches far beyond what 
-one might typically think of as “agriculture.” As the following points illustrate, 
+one might typically think of as “agriculture.” 
+
+![An organizational view of USDA](images/usda_organization.png)
+
+As the following points illustrate, 
 it is no exaggeration to say that USDA's work touches every American citizen, across every state, 
 throughout every day:
 
@@ -22,7 +26,6 @@ throughout every day:
 *  USDA is the tenth largest lender in the United States and through Rural Development has over 1 million loans in rural America; and
 *  USDA finances both housing and essential community facilities such as schools, hospitals, water supplies, electricity, and broadband access.
 
-![An organizational view of USDA](images/usda_organization.png)
 
 USDA Services to the American citizen and Industries include;  
 
@@ -67,4 +70,5 @@ USDA’s ER reflects the Department’s dynamic environment and the continuously
 
 *  Provides a holistic overview of major investments within the Department’s Mission Areas and component Agencies.
 *  Demonstrates how USDA has prioritized and planned its transition strategy through a deliberate discussion of its high-priority modernization initiatives.
+
 USDA’s ER reflects the changing program and business context of a continuously evolving Department. USDA will continue to update the Department’s Roadmap to provide the information necessary to assess USDA’s current and future architectures and the transition plan.
